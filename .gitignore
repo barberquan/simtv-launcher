@@ -1,0 +1,11 @@
+# CleanYourTV clone created by setup.sh (not part of this repo)
+/cleanyourtv/
+
+# Your own assets (don't commit personal photos / copyrighted wallpapers)
+theme/wallpaper.jpg
+theme/wallpapers/
+*.apk
+
+# Build / OS junk
+.DS_Store
+*.log
